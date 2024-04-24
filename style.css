@@ -88,3 +88,12 @@ header {
     margin-top: 30px;
     cursor: pointer;
 }
+/* Category Section */
+#category {
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+.category {
+    text-align: center;
+}
