@@ -111,3 +111,18 @@ header {
     display: flex;
     justify-content: space-between;
 }
+/* Offer Section */
+#offer {
+    margin: 80px auto;
+    background: var(--bg);
+}
+#offer .container {
+    display: flex;
+    align-items: center;
+}
+#offer .container img {
+    max-width: 600px;
+}
+.offer-content h1{
+    font-size: 50px;
+}
