@@ -126,3 +126,9 @@ header {
 .offer-content h1{
     font-size: 50px;
 }
+/* Featured Section */
+#featured {
+    margin: 150px auto;
+    display: flex;
+    justify-content: space-between;
+}
